@@ -77,6 +77,8 @@ PaaS (Platform as a Service)
 
 ·        Beispiel: Google App Engine, Heroku.
 
+SaaS (Software as a Service)
+
 ·        Bereitstellung von fertigen Anwendungen über das Internet.
 
 ·        Beispiel: Microsoft 365, Google Workspace, Dropbox.
@@ -116,25 +118,16 @@ Das **Shared Responsibility Model** bedeutet, dass sich **Cloud-Anbieter und Kun
 **GIT-Befehle:**
 
 ·        gitclone (URL)
-
 ·        git add .
-
 ·        git commit -m “
-
 ·        git push
 
 **Docker-Befehle:**
 
 ·        docker build -f Dockerfile.web -t
-
 ·        docker push -t
-
 ·        docker run -d -p 8080:80 – name
-
 ·        docker pull
-
 ·        docker ps -a
-
 ·        docker start (Container name oder id)
-
 ·        docker excc -it (Docker name)
