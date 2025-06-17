@@ -1,1 +1,140 @@
 
+1.     **Wie ist der Begriff Cloud entstanden? Wieso heisst es Cloud?**
+
+Der Name „Cloud“ (Wolke) stammt aus alten IT-Diagrammen, in denen das Internet als Wolke dargestellt wurde – als etwas, das außerhalb des eigenen Systems liegt. Heute meint man mit „Cloud“, dass Daten nicht mehr lokal gespeichert werden, sondern auf Servern im Internet. Wo genau, spielt für Nutzer keine Rolle – sie sind einfach online abrufbar.
+
+2.     **Wie wird der Begriff Cloud definiert, z.B. gemäss NIST?**
+
+Das NIST – National Institute of Standards and Technology – ist eine US-amerikanische Behörde, die Standards und Richtlinien für Technik und IT entwickelt.
+
+Laut NIST ist Cloud Computing eine Methode, um IT-Dienste wie Speicherplatz, Rechenleistung oder Software flexibel über das Internet zu nutzen. Man kann diese Dienste schnell abrufen, nach Bedarf anpassen und zahlt nur, was man nutzt – ohne sich selbst um die technische Infrastruktur kümmern zu müssen.
+
+3. **Welches sind die 5 Merkmale einer Cloud?**
+
+a.     **On-Demand Self-Service** – Nutzer können Dienste selbstständig bereitstellen.
+
+b.     **Broad Network Access** – Zugriff über das Netzwerk von überall mit verschiedenen Geräten.
+
+c.      **Resource Pooling** – Anbieter bündeln Ressourcen für viele Kunden (Multi-Tenancy).
+
+d.     **Rapid Elasticity** – Schnelle und flexible horizontale Skalierung der Ressourcen.
+
+e.     **Measured Service** – Nutzung wird automatisch gemessen und abgerechnet.
+
+Economics of scale
+
+**Unterschied Vertikale und Horizontale Skalierung**
+
+Vertikale Skalierung ist
+
+4. **Welche Cloud Dienstleistungen kennen Sie?**
+
+- **Public Cloud:**
+
+Die Infrastruktur gehört einem Cloud-Anbieter (z. B. AWS, Azure, Google Cloud) und wird von mehreren Kunden gemeinsam genutzt.
+
+- **Private Cloud:**
+
+Die Infrastruktur ist nur für eine Organisation bestimmt, kann intern oder extern gehostet sein.
+
+- **Hybrid Cloud**
+
+**Kombination aus Public und Private Cloud mit Daten- oder Anwendungsaustausch zwischen beiden.**
+
+5. **Welche Cloud Anbieter kennen Sie?**
+
+-        AWS
+
+-        Azure
+
+-        Google Cloud
+
+6. **Welche Cloud Deployment Modelle kennen Sie?**
+
+·  **Private Cloud**: Wird nur von einer Organisation genutzt, entweder intern oder durch einen Drittanbieter gehostet. Bietet hohe Kontrolle und Sicherheit.
+
+·  **Public Cloud**: Dienste werden von einem externen Anbieter über das Internet bereitgestellt und von mehreren Nutzern gemeinsam verwendet. Günstig und skalierbar.
+
+·  **Hybrid Cloud**: Kombination aus Private und Public Cloud, ermöglicht flexibles Teilen von Daten und Anwendungen zwischen beiden.
+
+·  **Community Cloud**: Geteilte Cloud-Infrastruktur für Organisationen mit ähnlichen Anforderungen, z. B. in der gleichen Branche oder mit ähnlichen Sicherheitsanforderungen.
+
+7. **Was sind Cloud Service Modelle?**
+
+IaaS (Infrastructure as a Service)
+
+·        Bereitstellung von grundlegender Infrastruktur wie VMs, Storage, Netzwerke.
+
+·        Nutzer verwalten Betriebssystem, Middleware, Anwendungen.
+
+·        Beispiel: Amazon EC2, Microsoft Azure VM.
+
+PaaS (Platform as a Service)
+
+·        Bereitstellung von Entwicklungsplattformen (inkl. OS, Laufzeitumgebungen).
+
+·        Fokus auf Entwicklung ohne sich um Infrastruktur zu kümmern.
+
+·        Beispiel: Google App Engine, Heroku.
+
+·        Bereitstellung von fertigen Anwendungen über das Internet.
+
+·        Beispiel: Microsoft 365, Google Workspace, Dropbox.
+
+8. **Was ist der wesentliche Unterschiede zwischen Monitoring und Logging in der Cloud?**
+
+- **Logging** ist das **Aufzeichnen von Ereignissen**: Hier werden alle Systemereignisse, Fehlermeldungen, Anfragen, etc. in Protokolldateien gespeichert. Ziel ist es, detaillierte Informationen über das **"Was ist passiert?"** bereitzustellen.
+
+- **Monitoring** ist das **Beobachten und Auswerten** von Systemen in Echtzeit. Dabei geht es darum, **Kennzahlen (Metriken)** wie CPU-Auslastung, Antwortzeiten oder Speicherverbrauch zu überwachen. Ziel ist es, frühzeitig **Probleme zu erkennen oder Trends zu analysieren**.
+
+8. **Weshalb soll ich Dienste aus der Cloud beziehen? Was sind die Vorteile?**
+
+- **Skalierbarkeit**: Ressourcen lassen sich flexibel und automatisch anpassen.
+
+- **Kosteneffizienz**: Bezahlt wird nur, was genutzt wird („Pay-as-you-go“).
+
+- **Verfügbarkeit**: Hohe Ausfallsicherheit durch verteilte Rechenzentren.
+
+9. **Was sind die Nachteile?**
+
+- **Abhängigkeit vom Anbieter (Vendor Lock-in)**: Ein Wechsel kann komplex und teuer sein.
+
+- **Datenschutz und -sicherheit**: Besonders bei sensiblen Daten müssen rechtliche Vorgaben (z. B. DSGVO) beachtet werden.
+
+- **Internetabhängigkeit**: Ohne stabile Verbindung kein Zugriff auf Dienste.
+
+11.  **Was beschreibt das Konzept der "Shared Responsibility" (geteilte Verantwortung) im Kontext der Nutzung von Public Cloud Diensten?**
+
+Das **Shared Responsibility Model** bedeutet, dass sich **Cloud-Anbieter und Kunde die Verantwortung für Sicherheit und Betrieb teilen**:
+
+- **Anbieter**: Verantwortlich für die **Sicherheit der Cloud** (z. B. Rechenzentrum, Hardware, Netzwerk).
+
+- **Kunde**: Verantwortlich für die **Sicherheit in der Cloud** (z. B. Benutzerrechte, Daten, Anwendungen).
+
+----
+
+**GIT-Befehle:**
+
+·        gitclone (URL)
+
+·        git add .
+
+·        git commit -m “
+
+·        git push
+
+**Docker-Befehle:**
+
+·        docker build -f Dockerfile.web -t
+
+·        docker push -t
+
+·        docker run -d -p 8080:80 – name
+
+·        docker pull
+
+·        docker ps -a
+
+·        docker start (Container name oder id)
+
+·        docker excc -it (Docker name)
