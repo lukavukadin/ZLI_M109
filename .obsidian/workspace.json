@@ -183,6 +183,9 @@
   },
   "active": "f954cd13ec7c5266",
   "lastOpenFiles": [
+    "app/index.html",
+    "app",
+    "dockerfile.web",
     "Dienstleistungen von Cloud Anbietern vergleichen.md",
     "Grundlagen Cloud Computing.md",
     "Grundlagen Container Technologie.md",
