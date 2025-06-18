@@ -53,12 +53,14 @@
             "id": "6eb09db787441f47",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Bilder/Pasted image 20250618104056.png"
+                "file": "Block 1/1.2 Grundlagen Cloud Computing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250618104056"
+              "icon": "lucide-file",
+              "title": "1.2 Grundlagen Cloud Computing"
             }
           }
         ],
@@ -209,9 +211,12 @@
   },
   "active": "6eb09db787441f47",
   "lastOpenFiles": [
+    "html-openshift-app/dockerfile.web",
+    "html-openshift-app",
+    "zli-html-app/index.html",
+    "Bilder/Pasted image 20250618104056.png",
     "Block 4/Diagramm_Aufgabe_4.2.canvas",
     "Block 4/Auftrag 4.2 Container Orchestration mit Docker Compose.md",
-    "Bilder/Pasted image 20250618104056.png",
     "compose.yaml",
     "Dockerfile",
     "requirements.txt",
@@ -227,8 +232,6 @@
     "Block 3/3.1 Grundlagen Container Technologie.md",
     "Block 1/1.2 Grundlagen Cloud Computing.md",
     "README.md",
-    "Block 4",
-    "Block 3",
-    "Block 2"
+    "Block 4"
   ]
 }
