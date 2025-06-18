@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.2 Webserver mit Docker.md",
+                "file": "Block 1/1.2 Grundlagen Cloud Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 Webserver mit Docker"
+              "title": "1.2 Grundlagen Cloud Computing"
             }
           }
         ],
@@ -211,9 +211,9 @@
   },
   "active": "6eb09db787441f47",
   "lastOpenFiles": [
+    "Block 2/2.1 Dienstleistungen von Cloud Anbietern vergleichen.md",
     "Block 3/3.1 Grundlagen Container Technologie.md",
     "3.2 Webserver mit Docker.md",
-    "Block 2/2.1 Dienstleistungen von Cloud Anbietern vergleichen.md",
     "Block 1/1.2 Grundlagen Cloud Computing.md",
     "Auftrag 4.1 Container-Orchestrierung.md",
     "Block 4",
