@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2872d9cc2439ac15","type":"text","text":"**Browser**","x":-100,"y":-260,"width":140,"height":50},
+		{"id":"9684bcbae59624c6","type":"text","text":"**Web Flask-app**","x":-120,"y":-80,"width":181,"height":50},
+		{"id":"b2732280f1cfaeda","x":-120,"y":100,"width":184,"height":50,"type":"text","text":"**redis Key-Value**"}
+	],
+	"edges":[
+		{"id":"2d1bc81fc05d217e","fromNode":"2872d9cc2439ac15","fromSide":"bottom","toNode":"9684bcbae59624c6","toSide":"top","label":"http://localhost:8000"},
+		{"id":"4630cf6e2673363f","fromNode":"9684bcbae59624c6","fromSide":"bottom","toNode":"b2732280f1cfaeda","toSide":"top","label":"Redis-Client"}
+	]
+}

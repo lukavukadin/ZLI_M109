@@ -53,14 +53,17 @@
             "id": "6eb09db787441f47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Block 4/Auftrag 4.2 Container Orchestration mit Docker Compose.md",
-                "mode": "source",
-                "source": false
+                "file": "Block 4/Diagramm_Aufgabe_4.2.canvas",
+                "viewState": {
+                  "x": -28,
+                  "y": -55,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Auftrag 4.2 Container Orchestration mit Docker Compose"
+              "icon": "lucide-layout-dashboard",
+              "title": "Diagramm_Aufgabe_4.2"
             }
           }
         ],
@@ -211,6 +214,8 @@
   },
   "active": "6eb09db787441f47",
   "lastOpenFiles": [
+    "Block 4/Auftrag 4.2 Container Orchestration mit Docker Compose.md",
+    "Block 4/Diagramm_Aufgabe_4.2.canvas",
     "Pasted image 20250618104056.png",
     "compose.yaml",
     "Dockerfile",
@@ -219,7 +224,6 @@
     "composetest",
     "app.py",
     "Block 4/Auftrag 4.1 Container-Orchestrierung.md",
-    "Block 4/Auftrag 4.2 Container Orchestration mit Docker Compose.md",
     "Bilder/Pasted image 20250618083803.png",
     "Bilder",
     "Bilder/Pasted image 20250618083845.png",
