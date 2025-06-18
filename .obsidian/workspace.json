@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#syntax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,6 +211,7 @@
   },
   "active": "6eb09db787441f47",
   "lastOpenFiles": [
+    "Pasted image 20250618104056.png",
     "compose.yaml",
     "Dockerfile",
     "requirements.txt",
@@ -229,7 +230,6 @@
     "README.md",
     "Block 4",
     "Block 3",
-    "Block 2",
-    "Block 1"
+    "Block 2"
   ]
 }
