@@ -1,7 +1,9 @@
 services:
   web:
     build: .
+    container_name: flask_web
     ports:
       - "8000:5000"
   redis:
     image: "redis:alpine"
+    container_name: redis_cache
