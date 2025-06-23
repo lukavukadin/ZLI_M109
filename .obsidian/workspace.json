@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lösungen 2.md",
+                "file": "Unbenannt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lösungen 2"
+              "title": "Unbenannt"
             }
           }
         ],
@@ -211,16 +211,17 @@
   },
   "active": "6eb09db787441f47",
   "lastOpenFiles": [
-    "Block 4/Diagramm_Aufgabe_4.2.canvas",
     "Lösungen 2.md",
-    "lösungen.md",
+    "README.md",
+    "Unbenannt.md",
     "Block 2/2.1 Dienstleistungen von Cloud Anbietern vergleichen.md",
+    "Block 4/Auftrag 4.2 Container Orchestration mit Docker Compose.md",
+    "Block 4/Diagramm_Aufgabe_4.2.canvas",
+    "Block 4/Auftrag 4.1 Container-Orchestrierung.md",
+    "lösungen.md",
     "Block 1/1.2 Grundlagen Cloud Computing.md",
     "Block 3/3.1 Grundlagen Container Technologie.md",
-    "Block 4/Auftrag 4.1 Container-Orchestrierung.md",
-    "Block 4/Auftrag 4.2 Container Orchestration mit Docker Compose.md",
     "Block 3/3.2 Webserver mit Docker.md",
-    "README.md",
     "WhatsApp Image 2025-05-23 at 11.31.48 (2).jpeg",
     "WhatsApp Image 2025-05-23 at 11.31.48 (1).jpeg",
     "Block 6",

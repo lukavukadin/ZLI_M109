@@ -1,5 +1,3 @@
-  
-
 # Test_2 – Lösungen
 
   
@@ -20,7 +18,7 @@ Sie konnten alle Teile der Applikation auf OpenShift deployen. In der Webkonsole
 
 - Fehler finden –> Falscher Port im Service oder Route  
 
-- Lösung –> Deployment-Config, Env setzen, Logs fixen, Image prüfen
+- **Lösung –> Deployment-Config, Env setzen, Logs fixen, Image prüfen**
 
   
 
@@ -37,7 +35,7 @@ Sie konnten alle Teile der Applikation auf OpenShift deployen. Beim Zugriff auf 
 
 - Fehler finden –> Netzwerk-Tab in DevTools → falsche URL → lokale Adresse  
 
-- Lösung – `BACKEND_URL` korrekt setzen im Deployment des Frontends
+- **Lösung –>`BACKEND_URL` korrekt setzen im Deployment des Frontends**
 
   
 
@@ -51,7 +49,7 @@ Welche Kubernetes Ressource können Sie einsetzen?
 
   
 
-- `HorizontalPodAutoscaler` → Kubernetes Ressource  
+- **`HorizontalPodAutoscaler` → Kubernetes Ressource**  
 
 - Er sorgt dynamisch für ausreichend Rechenleistung, ohne dass du manuell eingreifen musst.
 
