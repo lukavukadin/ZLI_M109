@@ -284,11 +284,11 @@ Auf welchem Port kommen die HTTP Anfragen im Container an?
 **Ordnen Sie zu, welche Programmier- bzw. Abfragesprache am jeweiligen Ort eingesetzt wird:**
 
   
-- JavaScript  
+- Frontend: JavaScript  
 
-- JavaScript  
+- Backend: JavaScript  
 
-- SQL
+- Datenbank: SQL
 
   
 
