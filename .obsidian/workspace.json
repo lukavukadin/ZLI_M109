@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Block 3/3.1 Grundlagen Container Technologie.md",
+                "file": "lösungen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Grundlagen Container Technologie"
+              "title": "lösungen"
             }
           }
         ],
@@ -211,9 +211,9 @@
   },
   "active": "6eb09db787441f47",
   "lastOpenFiles": [
+    "Block 3/3.1 Grundlagen Container Technologie.md",
     "Block 2/2.1 Dienstleistungen von Cloud Anbietern vergleichen.md",
     "Block 1/1.2 Grundlagen Cloud Computing.md",
-    "Block 3/3.1 Grundlagen Container Technologie.md",
     "lösungen.md",
     "lösungen.md",
     "Block 4/Auftrag 4.1 Container-Orchestrierung.md",

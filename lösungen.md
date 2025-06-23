@@ -219,6 +219,8 @@ Typische Runtimes sind:
 
 ## Frage 16  
 
+**Wie ladet man ein Repository herunter?**  
+
 `git clone`  
 
 
