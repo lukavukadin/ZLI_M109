@@ -10,6 +10,8 @@ Cloud-Anbieter setzen auf Redundanz - einzelne
 Hardwaredefekte werden durch Ausfallsicherung
 abgefangen und sind daher kein direktes Risiko für
 Cloud-Nutzer.
+	
+---
 
 ### **Frage 2: Zu welchem Cloud Dienstmodell zählt das Hosting eines virtuellen Servers?**
 
@@ -24,7 +26,7 @@ Anbieter virtuelle Maschinen, Speicher und
 Netzwerke bereit. Der Kunde verwaltet das
 Betriebssystem und die Anwendungen selbst.
 
-
+---
 ### **Frage 3: Was ist kein Cloud-Bereitstellungsmodell?**
 
 Richtige Antwort:
@@ -41,6 +43,7 @@ Modell. Offizielle Bereitstellungsmodelle sind:
 - Hybrid Cloud
 - (Community Cloud)
 
+---
 ### **Frage 4: Welches ist eine beliebte Dienstleistung bei Google Cloud?**
 
 Richtige Antwort:
@@ -54,7 +57,7 @@ verbreitete Dienstleistung zur automatisierten
 Bereitstellung, Verwaltung und Skalierung von
 Containern mit Kubernetes in der Google Cloud.
 
-
+---
 
 ### Frage 5: Was ist ein Nachteil bei der Einführung einer Cloud-Computing-Technologie aus Unternehmenssicht?
 
@@ -76,6 +79,8 @@ mit Stichpunkten erstellen.
 Hier sind die richtigen Antworten zu den Fragen 6-
 10 mit kurzen, verständlichen Erklärungen:
 
+
+---
 ### Frage 6: Was ist Cloud-Computing?
 
 Richtige Antwort:
@@ -89,7 +94,7 @@ Rechenleistung, Speicher oder Software über das
 Internet bereitzustellen, meist durch externe
 Anbieter.
 
-
+---
 ### Frage 7: Was ist ein Nachteil von Cloud-Computing?
 
 Richtige Antwort:
@@ -103,6 +108,7 @@ werden, haben Unternehmen keine direkte
 Kontrolle über den Speicherort, was z. B.
 Datenschutzprobleme verursachen kann.
 
+---
 ### Frage 8: Was wird durch Cloud Computing grundsätzlich aus Sicht der Kunden ersetzt?
 
 Richtige Antwort:
@@ -123,6 +129,7 @@ also alle genannten Punkte.
 - Hardwareanschaffungen,
 also alle genannten Punkte.
 
+---
 ### Frage 9: Woruber kann eine Cloud normalerweise nicht verwaltet werden?
 
 Richtige Antwort:
@@ -139,6 +146,7 @@ Cloud-Verwaltung erfolgt typischerweise über:
 Eine Desktop-App ist untypisch und selten Teil
 des Standardmanagements.
 
+---
 ### Frage 10: Welches ist kein Hauptmerkmal des Cloud Computings?
 
 Richtige Antwort:
@@ -151,7 +159,7 @@ Erklärung:
 standardisiertes Merkmal. Die offiziellen
 Hauptmerkmale des Cloud-Computings laut NIST
 
-
+---
 ### Frage 11: Welches sind Cloud Service-Modelle?
 
 Richtige Antwort:
@@ -170,6 +178,7 @@ Speicher)
 Entwicklerumgebungen)
 - SaaS: Software (z.B. Webmail, Office 365)
 
+---
 ### Frage 12: Bei welchem Cloud Service-Modell hat der Kunde die geringste Kontrolle über die darunterliegende Infrastruktur?
 
 Richtige Antwort:
@@ -183,7 +192,7 @@ Infrastruktur bis zur Anwendung - vom Anbieter
 verwaltet. Der Kunde nutzt nur die Anwendung (z.B.
 Gmail, Microsoft 365).
 
-
+---
 ### Frage 13: Ohne welche Technologie ist das Cloud-Computing prinzipiell nicht möglich?
 
 Richtige Antwort:
@@ -197,6 +206,7 @@ Maschinen auf einer physischen Hardware zu
 betreiben. Diese Technik ist die Grundlage für
 Ressourcenteilung und Skalierbarkeit in der Cloud.
 
+---
 ### Frage 14: Was nutzt ein Cloud-Computing Anbieter zur Sicherung seiner Wirtschaftlichkeit aus?
 
 Richtige Antwort:
@@ -210,6 +220,7 @@ Cloud-Anbieter profitieren von Skaleneffekten
 desto günstiger wird der Betrieb pro Kunde (z. B.
 durch Massenhardware, geteilte Infrastruktur),
 
+---
 ### Frage 15: Was ist keine Container-Runtime?
 
 Richtige Antwort:
@@ -227,6 +238,7 @@ Typische Container-Runtimes sind:
 - Podman
 - CRI-O
 
+---
 ### Frage 16:
 
 ```
@@ -234,6 +246,7 @@ git clone
 ```
 
 
+---
 ### Frage 17: Welche Cloud Dienstleistung ist ein Beispiel für Platform as a Service?
 
 Richtige Antwort:
@@ -244,7 +257,7 @@ Erklärung:
 Heroku ist ein typischer PaaS-Dienst (Platform as a
 Service hei dem Fntwickler Anwendunnen
 
-
+---
 ### Frage 18: Welche Sicherheitspakete bieten Cloud-Dienste?
 
 Richtige Antwort:
@@ -263,7 +276,7 @@ Benutzerkonten
 - Authentifizierung: Bestätigung der Identität
 - Autorisierung: Zuweisung von Berechtigungen
 
-
+---
 ### Frage 19: Welche der folgenden Cloud-Dienstleistungen wird nicht angeboten?
 
 Richtige Antwort:
@@ -280,6 +293,7 @@ Folgende hingegen sind gängige Cloud-Dienste:
 - Virtuelle CPUs
 - Virtuelle Netzwerke
 
+---
 ### Frage 20: Welche Aussage trifft nicht auf Infrastructure as a Service zu?
 
 Richtige Antwort:
