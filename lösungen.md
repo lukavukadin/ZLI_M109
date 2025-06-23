@@ -10,7 +10,7 @@ Cloud-Anbieter setzen auf Redundanz - einzelne
 Hardwaredefekte werden durch Ausfallsicherung
 abgefangen und sind daher kein direktes Risiko für
 Cloud-Nutzer.
-	
+
 ---
 
 ### **Frage 2: Zu welchem Cloud Dienstmodell zählt das Hosting eines virtuellen Servers?**
