@@ -223,11 +223,11 @@ durch Massenhardware, geteilte Infrastruktur),
 ---
 ### Frage 15: Was ist keine Container-Runtime?
 
-Richtige Antwort:
+##### Richtige Antwort:
 
 3. **Kubernetes**
 
-Erklärung:
+###### Erklärung:
 
 Kubernetes ist ein Orchestrierungssystem, keine
 Runtime.
@@ -280,7 +280,7 @@ Benutzerkonten
 ### Frage 19: Welche der folgenden Cloud-Dienstleistungen wird nicht angeboten?
 
 Richtige Antwort:
-1. virtuelle Realität (VR)
+1. **virtuelle Realität (VR)**
 
 Erklärung:
 
