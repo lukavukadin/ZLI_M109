@@ -211,14 +211,18 @@
   },
   "active": "6eb09db787441f47",
   "lastOpenFiles": [
-    "Block 4/Auftrag 4.2 Container Orchestration mit Docker Compose.md",
     "lösungen.md",
-    "README.md",
+    "lösungen.md",
+    "Block 1/1.2 Grundlagen Cloud Computing.md",
+    "Block 2/2.1 Dienstleistungen von Cloud Anbietern vergleichen.md",
     "Block 4/Auftrag 4.1 Container-Orchestrierung.md",
+    "Block 3/3.1 Grundlagen Container Technologie.md",
+    "Block 3/3.2 Webserver mit Docker.md",
+    "Block 4/Auftrag 4.2 Container Orchestration mit Docker Compose.md",
+    "README.md",
     "Block 4/Diagramm_Aufgabe_4.2.canvas",
     "WhatsApp Image 2025-05-23 at 11.31.48 (2).jpeg",
     "WhatsApp Image 2025-05-23 at 11.31.48 (1).jpeg",
-    "Block 1/1.2 Grundlagen Cloud Computing.md",
     "Block 6",
     "html-openshift-app/dockerfile.web",
     "html-openshift-app",
@@ -231,9 +235,6 @@
     "composetest",
     "app.py",
     "Bilder/Pasted image 20250618083803.png",
-    "Bilder/Pasted image 20250618083845.png",
-    "Block 3/3.2 Webserver mit Docker.md",
-    "Block 2/2.1 Dienstleistungen von Cloud Anbietern vergleichen.md",
-    "Block 3/3.1 Grundlagen Container Technologie.md"
+    "Bilder/Pasted image 20250618083845.png"
   ]
 }

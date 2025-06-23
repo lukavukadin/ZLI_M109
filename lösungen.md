@@ -1,312 +1,285 @@
-### **Frage 1: Was ist kein Risiko des Cloud-Computings?**
-
-Richtige Antwort:
-
-4. **Einzelne Hardware Defekte, z. B. kaputtes Netzteil**
-
-Erklärung:
-
-Cloud-Anbieter setzen auf Redundanz - einzelne
-Hardwaredefekte werden durch Ausfallsicherung
-abgefangen und sind daher kein direktes Risiko für
-Cloud-Nutzer.
+# Cloud-Computing – Fragen & Antworten (1–20)
 
 ---
 
-### **Frage 2: Zu welchem Cloud Dienstmodell zählt das Hosting eines virtuellen Servers?**
+## Frage 1  
 
-Richtige Antwort:
+**Was ist kein Risiko des Cloud-Computings?**  
 
-3. **laaS**
+**Richtige Antwort:** 
 
-Erklärung:
+4. Einzelne Hardware Defekte, z. B. kaputtes Netzteil
 
-Bei Infrastructure as a Service (laaS) stellt der
-Anbieter virtuelle Maschinen, Speicher und
-Netzwerke bereit. Der Kunde verwaltet das
-Betriebssystem und die Anwendungen selbst.
+**Erklärung:**  
+Cloud-Anbieter setzen auf Redundanz. Einzelne Hardwaredefekte werden durch Ausfallsicherung abgefangen und sind daher kein direktes Risiko für Cloud-Nutzer.
 
 ---
-### **Frage 3: Was ist kein Cloud-Bereitstellungsmodell?**
 
-Richtige Antwort:
+## Frage 2 
+ 
+**Zu welchem Cloud-Dienstmodell zählt das Hosting eines virtuellen Servers?**  
 
-3. **Segregated Cloud**
+**Richtige Antwort:** 
 
-Erklärung:
+3. IaaS
 
-"Segregated Cloud" ist kein offiziell anerkanntes
-Modell. Offizielle Bereitstellungsmodelle sind:
+**Erklärung:**  
+Bei Infrastructure as a Service (IaaS) stellt der Anbieter virtuelle Maschinen, Speicher und Netzwerke bereit. Der Kunde verwaltet das Betriebssystem und die Anwendungen selbst.
 
-- Public Cloud
-- Private Cloud
-- Hybrid Cloud
+---
+
+## Frage 3  
+
+**Was ist kein Cloud-Bereitstellungsmodell?**  
+
+**Richtige Antwort:** 
+
+3. Segregated Cloud
+
+**Erklärung:**  
+„Segregated Cloud“ ist kein anerkanntes Modell. Offizielle Modelle sind:
+- Public Cloud  
+- Private Cloud  
+- Hybrid Cloud  
 - (Community Cloud)
 
 ---
-### **Frage 4: Welches ist eine beliebte Dienstleistung bei Google Cloud?**
 
-Richtige Antwort:
+## Frage 4  
 
-4. **Kubernetes Engine GKE**
+**Welches ist eine beliebte Dienstleistung bei Google Cloud?**  
 
-Erklärung:
+**Richtige Antwort:** 
 
-Google Kubernetes Engine (GKE) ist eine weit
-verbreitete Dienstleistung zur automatisierten
-Bereitstellung, Verwaltung und Skalierung von
-Containern mit Kubernetes in der Google Cloud.
+4. Kubernetes Engine (GKE)
+
+**Erklärung:**  
+Google Kubernetes Engine ist ein verbreiteter Dienst zur automatisierten Bereitstellung, Verwaltung und Skalierung von Containern mit Kubernetes.
+
+---
+
+## Frage 5  
+
+**Was ist ein Nachteil bei der Einführung von Cloud-Computing aus Unternehmenssicht?**  
+
+**Richtige Antwort:** 
+
+2. Sehr hohe Komplexität
+
+**Erklärung:**  
+Die Umstellung ist oft komplex: Integration, Sicherheit, Prozesse und Compliance müssen angepasst werden.
 
 ---
 
-### Frage 5: Was ist ein Nachteil bei der Einführung einer Cloud-Computing-Technologie aus Unternehmenssicht?
+## Frage 6  
 
-Richtige Antwort:
+**Was ist Cloud-Computing?**  
 
-2. **Sehr hohe Komplexität**
+**Richtige Antwort:** 
 
-Erklärung:
+3. Bereitstellung von Computerdienstleistungen
 
-Die Umstellung auf Cloud-Technologie kann
-komplex sein - Integration, Datensicherheit, Prozesse
-und Compliance mussen neu gedacht und angepasst
-werden.
-
-Wenn du mochtest, kann ich dir zu allen Fragen auch
-eine übersichtliche Zusammenfassung oder Lernhilfe
-mit Stichpunkten erstellen.
-
-Hier sind die richtigen Antworten zu den Fragen 6-
-10 mit kurzen, verständlichen Erklärungen:
-
+**Erklärung:**  
+IT-Ressourcen wie Rechenleistung, Speicher oder Software werden über das Internet bereitgestellt.
 
 ---
-### Frage 6: Was ist Cloud-Computing?
 
-Richtige Antwort:
+## Frage 7  
 
-3. **Bereitstellung von Computerdienstleistungen**
+**Was ist ein Nachteil von Cloud-Computing?**  
 
-Erklärung:
+**Richtige Antwort:** 
 
-Cloud-Computing bedeutet, IT-Ressourcen wie
-Rechenleistung, Speicher oder Software über das
-Internet bereitzustellen, meist durch externe
-Anbieter.
+1. Keine Kontrolle über die Datenspeicherung
 
----
-### Frage 7: Was ist ein Nachteil von Cloud-Computing?
-
-Richtige Antwort:
-
-1. **Keine Kontrolle uber die Datenspeicherung**
-
-Erklärung:
-
-Da Daten oft auf Servern im Ausland gespeichert
-werden, haben Unternehmen keine direkte
-Kontrolle über den Speicherort, was z. B.
-Datenschutzprobleme verursachen kann.
+**Erklärung:**  
+Daten werden oft im Ausland gespeichert. Dadurch entsteht Kontrollverlust über Speicherort und Datenschutz.
 
 ---
-### Frage 8: Was wird durch Cloud Computing grundsätzlich aus Sicht der Kunden ersetzt?
 
-Richtige Antwort:
+## Frage 8  
 
-1. **Alle genannten Punkte**
+**Was wird durch Cloud Computing grundsätzlich ersetzt?**  
 
-Erklärung:
+**Richtige Antwort:** 
 
+1. Alle genannten Punkte
+
+**Erklärung:**  
 Cloud Computing ersetzt:
-
-- Eigene Rechenzentren,
-- Software-Upgrades,
-- Hardwareanschaffungen, 
-also alle genannten Punkte.
-
-- Eigene Rechenzentren,
-- Software-Upgrades,
-- Hardwareanschaffungen,
-also alle genannten Punkte.
+- Eigene Rechenzentren  
+- Software-Upgrades  
+- Hardwareanschaffungen
 
 ---
-### Frage 9: Woruber kann eine Cloud normalerweise nicht verwaltet werden?
 
-Richtige Antwort:
-1. **über die Desktop-Applikation**
+## Frage 9  
 
-Erklärung:
+**Worüber kann eine Cloud normalerweise nicht verwaltet werden?**  
 
+**Richtige Antwort:** 
+
+1. Über die Desktop-Applikation
+
+**Erklärung:**  
 Cloud-Verwaltung erfolgt typischerweise über:
-
-- Webkonsole,
-- HTTP API oder
-- CLI (Command Line Interface).
-
-Eine Desktop-App ist untypisch und selten Teil
-des Standardmanagements.
+- Webkonsole  
+- HTTP API  
+- CLI (Command Line Interface)
 
 ---
-### Frage 10: Welches ist kein Hauptmerkmal des Cloud Computings?
 
-Richtige Antwort:
+## Frage 10  
 
-2. **Content-Aware Network Scaling**
+**Welches ist kein Hauptmerkmal des Cloud Computings?**  
 
-Erklärung:
+**Richtige Antwort:**
 
-"Content-Aware Network Scaling" ist kein
-standardisiertes Merkmal. Die offiziellen
-Hauptmerkmale des Cloud-Computings laut NIST
+2. Content-Aware Network Scaling
 
----
-### Frage 11: Welches sind Cloud Service-Modelle?
-
-Richtige Antwort:
-
-1. **Infrastructure as a Service (laaS), Platform as**
-**a Service (PaaS), Software as a Service (SaaS)**
-
-Erklärung:
-
-Diese drei Service-Modelle sind die Grundbausteine
-der Cloud:
-
-- laaS: Infrastruktur (z.B. virtuelle Maschinen,
-Speicher)
-- PaaS: Plattform (z.B. Datenbanken,
-Entwicklerumgebungen)
-- SaaS: Software (z.B. Webmail, Office 365)
+**Erklärung:**  
+Offizielle Merkmale laut NIST:
+- On-Demand Self-Service  
+- Broad Network Access  
+- Resource Pooling  
+- Rapid Elasticity  
+- Measured Service
 
 ---
-### Frage 12: Bei welchem Cloud Service-Modell hat der Kunde die geringste Kontrolle über die darunterliegende Infrastruktur?
 
-Richtige Antwort:
+## Frage 11  
 
-2. **SaaS**
+**Welches sind Cloud Service-Modelle?**  
 
-Erklärung:
+**Richtige Antwort:** 
 
-Bei Software as a Service (SaaS) wird alles - von der
-Infrastruktur bis zur Anwendung - vom Anbieter
-verwaltet. Der Kunde nutzt nur die Anwendung (z.B.
-Gmail, Microsoft 365).
+1. IaaS, PaaS, SaaS
 
----
-### Frage 13: Ohne welche Technologie ist das Cloud-Computing prinzipiell nicht möglich?
-
-Richtige Antwort:
-
-1. **Virtualisierung**
-
-Erklärung:
-
-Virtualisierung ermöglicht es, mehrere virtuelle
-Maschinen auf einer physischen Hardware zu
-betreiben. Diese Technik ist die Grundlage für
-Ressourcenteilung und Skalierbarkeit in der Cloud.
+**Erklärung:**  
+- IaaS: Infrastruktur (z. B. virtuelle Maschinen, Speicher)  
+- PaaS: Plattform (z. B. Datenbanken, Entwicklerumgebungen)  
+- SaaS: Software (z. B. Webmail, Office 365)
 
 ---
-### Frage 14: Was nutzt ein Cloud-Computing Anbieter zur Sicherung seiner Wirtschaftlichkeit aus?
 
-Richtige Antwort:
+## Frage 12  
 
-3. **Die "Economies of Scale"**
+**Bei welchem Cloud Service-Modell hat der Kunde die geringste Kontrolle über die Infrastruktur?**  
+**Richtige Antwort:** 
 
-Erklärung:
+2. SaaS
 
-Cloud-Anbieter profitieren von Skaleneffekten
-(Economies of Scale): Je mehr Kunden sie haben,
-desto günstiger wird der Betrieb pro Kunde (z. B.
-durch Massenhardware, geteilte Infrastruktur),
+**Erklärung:**  
+Bei Software as a Service (SaaS) wird alles vom Anbieter verwaltet. Der Kunde nutzt nur die Anwendung.
 
 ---
-### Frage 15: Was ist keine Container-Runtime?
 
-##### Richtige Antwort:
+## Frage 13 
 
-3. **Kubernetes**
+**Ohne welche Technologie ist das Cloud-Computing prinzipiell nicht möglich?**  
 
-###### Erklärung:
+**Richtige Antwort:** 
 
-Kubernetes ist ein Orchestrierungssystem, keine
-Runtime.
+1. Virtualisierung
 
-Typische Container-Runtimes sind:
+**Erklärung:**  
+Virtualisierung ermöglicht es, mehrere virtuelle Maschinen auf einer physischen Hardware zu betreiben. Diese Technik ist die Grundlage für Ressourcenteilung und Skalierbarkeit.
 
-- Docker
-- Podman
+---
+
+## Frage 14  
+
+**Was nutzt ein Cloud-Computing Anbieter zur Sicherung seiner Wirtschaftlichkeit aus?**  
+
+**Richtige Antwort:** 
+
+3. Die "Economies of Scale"
+
+**Erklärung:**  
+Cloud-Anbieter profitieren von Skaleneffekten: Je mehr Kunden, desto günstiger der Betrieb pro Kunde.
+
+---
+
+## Frage 15  
+
+**Was ist keine Container-Runtime?**  
+
+**Richtige Antwort:** 
+
+3. Kubernetes
+
+**Erklärung:**  
+Kubernetes ist ein Orchestrierungssystem, keine Runtime.  
+Typische Runtimes sind:
+- Docker  
+- Podman  
 - CRI-O
 
 ---
-### Frage 16:
 
-```
-git clone
-```
+## Frage 16  
+
+`git clone`  
 
 
 ---
-### Frage 17: Welche Cloud Dienstleistung ist ein Beispiel für Platform as a Service?
 
-Richtige Antwort:
+## Frage 17  
+
+**Welche Cloud-Dienstleistung ist ein Beispiel für Platform as a Service?**  
+
+**Richtige Antwort:** 
 
 3. Heroku
 
-Erklärung:
-Heroku ist ein typischer PaaS-Dienst (Platform as a
-Service hei dem Fntwickler Anwendunnen
+**Erklärung:**  
+Heroku ist ein typischer PaaS-Dienst, bei dem Entwickler Anwendungen direkt deployen können.
 
 ---
-### Frage 18: Welche Sicherheitspakete bieten Cloud-Dienste?
 
-Richtige Antwort:
+## Frage 18  
 
-3. **Zugangskontrolle, Identitätsmanagement, Authentifizierung und Autorisierung**
+**Welche Sicherheitspakete bieten Cloud-Dienste?**  
 
-Erklärung:
+**Richtige Antwort:** 
 
-Moderne Cloud-Dienste bieten umfassende
-Sicherheitsfunktionen, um Systeme und Daten zu
-schützen:
+3. Zugangskontrolle, Identitätsmanagement, Authentifizierung und Autorisierung
 
-- Zugangskontrolle: Wer darf was?
-- Identitätsmanagement: Verwaltung von
-Benutzerkonten
-- Authentifizierung: Bestätigung der Identität
-- Autorisierung: Zuweisung von Berechtigungen
+**Erklärung:**  
+Moderne Cloud-Dienste bieten umfassende Sicherheitsfunktionen:
+- Zugangskontrolle  
+- Identitätsmanagement  
+- Authentifizierung  
+- Autorisierung
 
 ---
-### Frage 19: Welche der folgenden Cloud-Dienstleistungen wird nicht angeboten?
 
-Richtige Antwort:
-1. **virtuelle Realität (VR)**
+## Frage 19  
 
-Erklärung:
+**Welche der folgenden Cloud-Dienstleistungen wird nicht angeboten?** 
 
-VR (Virtual Reality) ist keine direkte Cloud-
-Dienstleistung.
+**Richtige Antwort:** 
 
-Folgende hingegen sind gängige Cloud-Dienste:
+1. Virtuelle Realität (VR)
 
-- Virtueller Speicher (SSD)
-- Virtuelle CPUs
+**Erklärung:**  
+VR ist keine direkte Cloud-Dienstleistung. Gängige Dienste sind:
+- Virtueller Speicher  
+- Virtuelle CPUs  
 - Virtuelle Netzwerke
 
 ---
-### Frage 20: Welche Aussage trifft nicht auf Infrastructure as a Service zu?
 
-Richtige Antwort:
+## Frage 20  
 
-3. **Die Anwendungen werden von einem Cloud Anbieter gehostet und den Kunden angeboten**
+**Welche Aussage trifft nicht auf Infrastructure as a Service zu?**  
 
-Erklärung:
+**Richtige Antwort:**
 
-Das ist eine Beschreibung von SaaS (Software as a
-Service).
+3. Die Anwendungen werden von einem Cloud-Anbieter gehostet und den Kunden angeboten
 
-laaS liefert die Infrastruktur (z. B. virtuelle Maschinen,
-Netzwerke, Speicher), auf der der Kunde eigene
-Anwendungen betreibt. Der Kunde ist hier fur die
-Installation, Konfiguration und Wartung der Software
-verantwortlich.
+**Erklärung:**  
+Das ist eine Beschreibung von SaaS.  
+Bei IaaS stellt der Anbieter nur die Infrastruktur bereit – die Anwendungen verwaltet der Kunde selbst.
+
+---
