@@ -9,7 +9,6 @@
 Sie konnten alle Teile der Applikation auf OpenShift deployen. In der Webkonsole wird sehen Sie aber, dass etwas nicht stimmt.
 
   
-
 - Fehlerursache – `oc logs` oder Webkonsole zur Fehlersuche  
 
 - ContainerPort ≠ Service-Port ist häufige Ursache  
