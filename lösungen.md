@@ -219,7 +219,7 @@ Typische Runtimes sind:
 
 ## Frage 16  
 
-**Wie ladet man ein Repository herunter?**  
+**Wie klont man ein Repository mit Git?**  
 
 `git clone`  
 
@@ -285,3 +285,7 @@ Das ist eine Beschreibung von SaaS.
 Bei IaaS stellt der Anbieter nur die Infrastruktur bereit – die Anwendungen verwaltet der Kunde selbst.
 
 ---
+
+#### Basis technologie:
+
+- Virtualisierung
