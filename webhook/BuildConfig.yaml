@@ -23,7 +23,7 @@ spec:
   source:
     type: Git
     git:
-      uri: 'https://github.com/lukavukadin/html-openshift-app.git'
+      uri: 'https://github.com/lukavukadin/zli_m109.git'
     contextDir: /
   triggers:
     - type: Generic
