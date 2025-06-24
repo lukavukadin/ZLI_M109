@@ -70,17 +70,14 @@
             "id": "502215d161c0d19c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Unbenannt.canvas",
-                "viewState": {
-                  "x": -130.36050638913503,
-                  "y": 147.56096176366933,
-                  "zoom": -0.14944416188200316
-                }
+                "file": "Block 6/Auftrag_6.2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unbenannt"
+              "icon": "lucide-file",
+              "title": "Auftrag_6.2"
             }
           }
         ],
@@ -231,9 +228,9 @@
   },
   "active": "502215d161c0d19c",
   "lastOpenFiles": [
-    "README.md",
     "Unbenannt.canvas",
-    "Block 6/Unbenannt.md",
+    "README.md",
+    "Block 6/Auftrag_6.2.md",
     "Unbenannt.md",
     "Block 4/Diagramm_Aufgabe_4.2.canvas",
     "Lösungen/LB2-Lösungen-Teil-2.md",

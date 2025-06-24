@@ -1,6 +1,0 @@
-- Buildconfig
-
-- image
-
-- template
-
