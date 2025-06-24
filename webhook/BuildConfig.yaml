@@ -9,7 +9,7 @@ spec:
   output:
     to:
       kind: ImageStreamTag
-      name: 'html-openshift-app:latest'
+      name: html-openshift-app:latest
   resources: {}
   successfulBuildsHistoryLimit: 5
   failedBuildsHistoryLimit: 5
@@ -18,13 +18,13 @@ spec:
     sourceStrategy:
       from:
         kind: ImageStreamTag
-        name: 'nginx:1.20-ubi7'
+        name: nginx:1.20-ubi7
         namespace: openshift
   source:
     type: Git
     git:
-      uri: 'https://github.com/lukavukadin/zli_m109.git'
-    contextDir: /
+      uri: https://github.com/lukavukadin/zli_m109.git
+    contextDir: html-openshift-app
   triggers:
     - type: Generic
       generic:
