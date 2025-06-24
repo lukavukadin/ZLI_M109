@@ -53,18 +53,38 @@
             "id": "6eb09db787441f47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Block 4/Auftrag 4.2 Container Orchestration mit Docker Compose.md",
-                "mode": "source",
-                "source": false
+                "file": "Block 4/Diagramm_Aufgabe_4.2.canvas",
+                "viewState": {
+                  "x": -28,
+                  "y": -55,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Auftrag 4.2 Container Orchestration mit Docker Compose"
+              "icon": "lucide-layout-dashboard",
+              "title": "Diagramm_Aufgabe_4.2"
+            }
+          },
+          {
+            "id": "502215d161c0d19c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Unbenannt.canvas",
+                "viewState": {
+                  "x": -130.36050638913503,
+                  "y": 147.56096176366933,
+                  "zoom": -0.14944416188200316
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Unbenannt"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,21 +229,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6eb09db787441f47",
+  "active": "502215d161c0d19c",
   "lastOpenFiles": [
+    "README.md",
+    "Unbenannt.canvas",
+    "Block 6/Unbenannt.md",
+    "Unbenannt.md",
     "Block 4/Diagramm_Aufgabe_4.2.canvas",
     "Lösungen/LB2-Lösungen-Teil-2.md",
+    "Lösungen/LB2-Lösungen-Teil-1.md",
+    "Block 4/Auftrag 4.2 Container Orchestration mit Docker Compose.md",
     "html-openshift-app/dockerfile.nginx",
     "Test/compose.yaml",
     "Test/dockerfile.web",
     "Test/app.py",
     "Test/Dockerfile",
     "Test",
-    "Lösungen/LB2-Lösungen-Teil-1.md",
-    "README.md",
     "Lösungen/LB1-Lösungen.md",
     "Lösungen",
-    "Block 4/Auftrag 4.2 Container Orchestration mit Docker Compose.md",
     "Block 2/2.1 Dienstleistungen von Cloud Anbietern vergleichen.md",
     "Block 4/Auftrag 4.1 Container-Orchestrierung.md",
     "Block 1/1.2 Grundlagen Cloud Computing.md",
