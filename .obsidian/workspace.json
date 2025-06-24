@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lösungen/LB2-Lösungen-Teil-1.md",
+                "file": "Lösungen/LB2-Lösungen-Teil-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LB2-Lösungen-Teil-1"
+              "title": "LB2-Lösungen-Teil-2"
             }
           }
         ],
@@ -211,9 +211,15 @@
   },
   "active": "6eb09db787441f47",
   "lastOpenFiles": [
+    "html-openshift-app/dockerfile.nginx",
+    "Test/compose.yaml",
+    "Test/dockerfile.web",
+    "Test/app.py",
+    "Test/Dockerfile",
+    "Test",
+    "Lösungen/LB2-Lösungen-Teil-1.md",
     "Lösungen/LB2-Lösungen-Teil-2.md",
     "README.md",
-    "Lösungen/LB2-Lösungen-Teil-1.md",
     "Lösungen/LB1-Lösungen.md",
     "Lösungen",
     "Block 4/Diagramm_Aufgabe_4.2.canvas",
@@ -230,11 +236,6 @@
     "html-openshift-app",
     "zli-html-app/index.html",
     "Bilder/Pasted image 20250618104056.png",
-    "compose.yaml",
-    "Dockerfile",
-    "requirements.txt",
-    "composetest/app.py",
-    "composetest",
     "Bilder/Pasted image 20250618083803.png",
     "Bilder/Pasted image 20250618083845.png"
   ]
