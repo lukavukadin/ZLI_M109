@@ -19,7 +19,9 @@ Sie konnten alle Teile der Applikation auf OpenShift deployen. In der Webkonsole
 
 - **Lösung –> Deployment-Config, Env setzen, Logs fixen, Image prüfen**
 
-  
+- Wie gehen Sie vor um den Fehler zu finden?
+- Worin konnte der Fehler bestehen?
+- Wie kann der Fehler behoben werden?
 
 ---
 
