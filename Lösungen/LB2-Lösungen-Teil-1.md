@@ -4,40 +4,62 @@
 ---
  
 
-**Gegeben ist folgendes Szenario:**  
+#### **Gegeben ist folgendes Szenario:**  
 
 Sie konnten alle Teile der Applikation auf OpenShift deployen. In der Webkonsole wird sehen Sie aber, dass etwas nicht stimmt.
-
   
 - Fehlerursache – `oc logs` oder Webkonsole zur Fehlersuche  
-
 - ContainerPort ≠ Service-Port ist häufige Ursache  
-
 - `BACKEND_URL` muss erreichbar sein  
-
 - Fehler finden –> Falscher Port im Service oder Route  
-
 - **Lösung –> Deployment-Config, Env setzen, Logs fixen, Image prüfen**
 
-- Wie gehen Sie vor um den F<ehler zu finden?
-- Worin konnte der Fehler bestehen?
-- Wie kann der Fehler behoben werden?
+
+1. **Wie gehen Sie vor um den Fehler zu finden?**
+
+- `oc logs` oder Webkonsole nutzen
+- Ports & Routen prüfen
+
+2. **Worin konnte der Fehler bestehen?**
+
+- Container-Port ≠ Service-Port
+- `BACKEND_URL` nicht erreichbar
+
+3. Wie kann der Fehler behoben werden?
+
+- Port & Env-Variablen korrigieren
+- Deployment & Image prüfen
 
 ---
 
 
-**Gegeben ist folgendes Szenario:**  
+#### **Gegeben ist folgendes Szenario:**  
 
 Sie konnten alle Teile der Applikation auf OpenShift deployen. Beim Zugriff auf das Frontend erhalten Sie die folgende Fehlermeldung.
 
   
 
-- Fehlerursache –> Frontend verweist auf `localhost`, was im Cluster nicht auf das Backend zeigt  
-
+- Fehlerursache –> Frontend verweist auf `localhost`, was im Cluster nicht auf das Backend zeigt 
 - Fehler finden –> Netzwerk-Tab in DevTools → falsche URL → lokale Adresse  
-
 - **Lösung –>`BACKEND_URL` korrekt setzen im Deployment des Frontends**
 
+
+1. **Wie gehen Sie vor um den Fehler zu finden?**
+
+- DevTools → Netzwerk-Tab öffnen
+- API-Aufruf prüfen (`useCases`)
+- Falsche URL erkennen → verweist auf `localhost`
+
+2. **Worin liegt der Fehler?**
+
+- Frontend greift auf `http://localhost:3000` zu
+- Im OpenShift-Cluster zeigt `localhost` **nicht** auf das Backend
+- Umgebungsvariable `BACKEND_URL` ist falsch oder nicht gesetzt
+
+3. **Wie kann der Fehler behoben werden?**
+
+- `BACKEND_URL` im Deployment korrekt setzen
+- Frontend neu deployen
   
 
 ---
@@ -46,12 +68,15 @@ Sie konnten alle Teile der Applikation auf OpenShift deployen. Beim Zugriff auf 
 **Die Applikation ist ein voller Erfolg und die Nutzerzahlen steigen schnell.**  
 
 Wie könnte man dem Ansturm schnell gerecht werden?  
+
+- Skaliert automatisch die Pod-Anzahl je nach Auslastung, ohne manuelles Eingreifen
+
 Welche Kubernetes Ressource können Sie einsetzen?
 
+- **`HorizontalPodAutoscaler` (HPA)** als passende Kubernetes-Ressource
+
   
-
 - **`HorizontalPodAutoscaler` → Kubernetes Ressource**  
-
 - Er sorgt dynamisch für ausreichend Rechenleistung, ohne dass du manuell eingreifen musst.
 
   
@@ -145,9 +170,7 @@ env:
 
 ---
 
-**Das Frontend kann von außen via HTTP angesprochen werden.**  
-
-Auf welchem Port kommen die HTTP Anfragen im Container an?
+**Das Frontend kann von außen via HTTP angesprochen werden. Auf welchem Port kommen die HTTP Anfragen im Container an?
 
   
 
@@ -157,9 +180,7 @@ Auf welchem Port kommen die HTTP Anfragen im Container an?
 
 ---
 
-**Das Backend kann von außen via HTTP angesprochen werden.**  
-
-Auf welchem Port kommen die HTTP Anfragen im Container an?
+**Das Backend kann von außen via HTTP angesprochen werden. Auf welchem Port kommen die HTTP Anfragen im Container an?
 
   
 
