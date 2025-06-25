@@ -3,7 +3,6 @@
   
 ---
  
-
 #### **Gegeben ist folgendes Szenario:**  
 
 Sie konnten alle Teile der Applikation auf OpenShift deployen. In der Webkonsole wird sehen Sie aber, dass etwas nicht stimmt.
@@ -87,21 +86,18 @@ Sie konnten alle Teile der Applikation auf OpenShift deployen. Beim Zugriff auf 
 **Wie können mit der Commandline alle laufenden Pods angezeigt werden?**
 
   
+- `oc get pods`
 
-- `kubectl get pods`
-
-  
 
 ---
 
 
-**Wie können mit der Commandline alle laufenden Pods angezeigt werden?**
+**Wie können mit der Commandline alle Manifest-Files (YAML) aus dem aktuellen Ordner (.) in den Cluster übernommen werden?
 
   
 
-- `kubectl apply -f .`
+- `oc apply -f .`
 
-  
 
 ---
 
