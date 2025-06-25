@@ -65,13 +65,13 @@ Sie konnten alle Teile der Applikation auf OpenShift deployen. Beim Zugriff auf 
 ---
 
 
-**Die Applikation ist ein voller Erfolg und die Nutzerzahlen steigen schnell.**  
+**Die Applikation ist ein voller Erfolg und die Nutzerzahlen steige n schnell.**  
 
-Wie könnte man dem Ansturm schnell gerecht werden?  
+**Wie könnte man dem Ansturm schnell gerecht werden?** 
 
 - Skaliert automatisch die Pod-Anzahl je nach Auslastung, ohne manuelles Eingreifen
 
-Welche Kubernetes Ressource können Sie einsetzen?
+**Welche Kubernetes Ressource können Sie einsetzen?**
 
 - **`HorizontalPodAutoscaler` (HPA)** als passende Kubernetes-Ressource
 
