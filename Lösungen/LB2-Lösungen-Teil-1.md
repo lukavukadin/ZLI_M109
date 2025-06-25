@@ -1,6 +1,4 @@
 # Test_2 – Lösungen
-
-  
 ---
  
 #### **Gegeben ist folgendes Szenario:**  
